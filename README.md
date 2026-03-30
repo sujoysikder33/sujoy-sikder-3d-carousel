@@ -1,4 +1,4 @@
-# 🎡 sujoy-sikder-3d-carousel Portfolio
+# 🎡 sujoy-sikder-3d-carousel
 A visually stunning, interactive 3D carousel built with HTML, CSS, and JavaScript. This project features smooth animations, mouse/touch controls, and media support (Images, Video, and Audio).
 
 ## ✨ Features
